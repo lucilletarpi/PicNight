@@ -1,3 +1,6 @@
+body{
+  background:radial-gradient(circle at 0% 0%, #003059 0, #002f5c 6.25%, #002e5f 12.5%, #002c60 18.75%, #002b61 25%, #002860 31.25%, #00265f 37.5%, #06235c 43.75%, #1f1f59 50%, #2d1b55 56.25%, #371650 62.5%, #40114b 68.75%, #460b45 75%, #4c053e 81.25%, #500037 87.5%, #530031 93.75%, #55002a 100%) ;
+}
 .logoPicnight{
 width: 10em;
 }
@@ -43,47 +46,3 @@ width: 10em;
         opacity: 1;
     }
 }
-/* 
-<!-- <div class="carousel-item active" data-bs-interval="10000">
-<img src="./picture/milky-way-g21da6e0b7_1920.jpg" class="d-block w-100" id="carousel" alt="La voie Lactée">
-<div class="carousel-caption d-none d-md-block">
-  <h2>Voie Lactée</h2>
-  <p>By Felix Mittermeier</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="10000">
-<img src="./picture/astronomy-gfe9e6d0ab_1920.jpg" class="d-block w-100" alt="Astronomie">
-<div class="carousel-caption d-none d-md-block">
-  <h2>Astronomie</h2>
-  <p>By Pexels</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="10000">
-<img src="/picture/universe.jpg" class="d-block w-100" alt="Constellations">
-<div class="carousel-caption d-none d-md-block">
-  <h2>Constellations</h2>
-  <p>By StockSnap.</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="10000">
-<img src="/picture/orion-nebula-g4bb47496c_1920.jpg" class="d-block w-100" alt="La nébuleuse d'Orion">
-<div class="carousel-caption d-none d-md-block">
-  <h2>La nébuleuse d'Orion</h2>
-  <p>By WikiImages.</p>
-</div>
-</div>
-<div class="carousel-item" data-bs-interval="10000">
-<img src="/picture/aurora.jpg" class="d-block w-100" alt="Aurore Boréale">
-<div class="carousel-caption d-none d-md-block">
-  <h2>Aurore Boréale</h2>
-  <p>By Noel Bauza.</p>
-</div>
-</div> --> 
-
-
-
-  <!-- <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
-      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button> -->*/
